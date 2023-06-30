@@ -9,4 +9,4 @@
 - JSX
 
 #### GitHub Page
-[https://macasensio.github.io/image-search-app-VanillaJS/](https://macasensio.github.io/image-search-app-VanillaJS/)
+[https://macasensio.github.io/cotizador-prestamos-ReactJS/](https://macasensio.github.io/cotizador-prestamos-ReactJS/)
