@@ -8,5 +8,5 @@
 - TailwindCSS
 - JSX
 
-#### GitHub Page
-[https://macasensio.github.io/cotizador-prestamos-ReactJS/](https://macasensio.github.io/cotizador-prestamos-ReactJS/)
+#### App
+[https://main--startling-hummingbird-f6f68c.netlify.app/](https://main--startling-hummingbird-f6f68c.netlify.app/)
